@@ -4,20 +4,35 @@
 }
 
 .container {
-	height: 100vh;
+	/* height: 100vh; */
 	width: 100%;
 	font-size: 390px;
 	text-align: center;
 }
 
-#first { background-color: #ec3838; }
+#first {
+	background-color: #ec3838;
+	height: 600px;
+}
 
-#second { background-color: #e9eb33; }
+#second {
+	background-color: #e9eb33;
+	height: 800px;
+}
 
-#third { background-color: #5fbe5c; }
+#third {
+	background-color: #5fbe5c;
+	height: 500px;
+}
 
-#fourth { background-color: #dc3fe6; }
+#fourth {
+	background-color: #dc3fe6;
+	height: 1000px;
+}
 
-#fifth { background-color: #424297; }
+#fifth {
+	background-color: #424297;
+	height: 600px;
+}
 
 .active { color: white; }
